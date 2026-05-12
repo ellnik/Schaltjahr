@@ -35,3 +35,5 @@ if-Anweisungen
 logischen Operatoren (&&, ||, !=)
 boolean-Werten
 Konsolenausgaben in Java
+
+Result: https://github.com/ellnik/Schaltjahr/blob/main/schaltjahr.png
